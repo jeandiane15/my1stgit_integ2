@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, Madlang Pipol! Mabuhay! 
+=======
+Hello, Madlang Pipol. Mabuhay!
+>>>>>>> fce3c47e97bb80fb1bc93c20ae1afe6bba7431af

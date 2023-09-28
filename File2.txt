@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, I am Jean Diane. I am from CCS Dept.   
+=======
+Hi, My name is Jean Diane. 
+>>>>>>> fce3c47e97bb80fb1bc93c20ae1afe6bba7431af
